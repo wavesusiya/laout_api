@@ -2,25 +2,25 @@
     {
         "title": "คอมพิวเตอร์คืออะไร",
         "subtitle": "คอมคือ เครื่องมือย่อโลก",
-        "imges": "https://cdn.pixabay.com/photo/2015/01/08/18/25/desk-593327_1280.jpg",
+        "imges": "https://raw.githubusercontent.com/wavesusiya/laout_api/main/desk-593327_1280.jpg",
         "detail": "เครื่องคำนวณอิเล็กทรอนิกส์โดยใช้วิธีทางคณิตศาสตร์ประกอบด้วยฮาร์ดแวร์ (ส่วนตัวเครื่องและอุปกรณ์) และซอฟต์แวร์ (ส่วนชุดคำสั่ง หรือโปรแกรมที่สั่งให้คอมพิวเตอร์ทำงาน) สามารถทำงานคำนวณผล และเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่อง และอัตโนมัติ."
     },
     {
         "title": "flutter คืออะไร",
         "subtitle": "สิ่งที่กำลังเรียน",
-        "imges": "https://cdn.pixabay.com/photo/2014/05/02/21/47/laptop-336369_1280.jpg",
+        "imges": "https://raw.githubusercontent.com/wavesusiya/laout_api/main/laptop-336369_1280.jpg",
         "detail": "คอมพิวเตอร์มาจากภาษาละตินว่า Computare ซึ่งหมายถึง การนับ หรือ การคำนวณ พจนานุกรม ฉบับราชบัณฑิตยสถาน พ.ศ. 2525 ให้ความหมายของคอมพิวเตอร์ไว้ว่า 'เครื่อง'"
     },
     {
         "title":"Python คือ?",
         "subtitle":"ภาษาเขียนโปรแกรมชนิดหนึ่ง สร้างขึ้นเมื่อ 1991",
-        "imges":"https://raw.githubusercontent.com/UncleEngineer/FlutterAPI/main/coding-924920_960_720.jpg",
+        "imges":"https://raw.githubusercontent.com/wavesusiya/laout_api/main/coding-924920_960_720.jpg",
         "detail":"ภาษาไพทอน (Python programming language) หรือที่มักเรียกกันว่าไพทอน เป็นภาษาระดับสูงซึ่งสร้างโดยคีโด ฟัน โรสซึม โดยเริ่มในปีพ.ศ. 2533 การออกแบบของภาษาไพทอนมุ่งเน้นให้ผู้โปรแกรมสามารถอ่านชุดคำสั่งได้โดยง่ายผ่านการใช้งานอักขระเว้นว่าง (whitespaces) จำนวนมาก นอกจากนั้นการออกแบบภาษาไพทอนและการประยุกต์ใช้แนวคิดการเขียนโปรแกรมเชิงวัตถุในตัวภาษายังช่วยให้นักเขียนโปรแกรมสามารถเขียนโปรแกรมที่เป็นระเบียบ อ่านง่าย มีขนาดเล็ก และง่ายต่อการบำรุง[3]"
     },
     {
         "title":"PyPI คือ?",
         "subtitle":"แหล่งรวม package ของ Python",
-        "imges":"https://raw.githubusercontent.com/UncleEngineer/FlutterAPI/main/pypi.png",
+        "imges":"https://raw.githubusercontent.com/wavesusiya/laout_api/main/pypi.png",
         "detail":"The Python Package Index, abbreviated as PyPI (/ˌpaɪpiˈaɪ/) and also known as the Cheese Shop (a reference to the Monty Python's Flying Circus sketch \"Cheese Shop\"),[3][4] is the official third-party software repository for Python.[5] It is analogous to CPAN, the repository for Perl.[6] Some package managers, including pip, use PyPI as the default source for packages and their dependencies.[7][8] As of 1 September 2021, over 324,836 Python packages can be accessed through PyPI.[9]"
     }
 ]
